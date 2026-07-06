@@ -5,7 +5,7 @@
 | | |
 |---|---|
 | Nama | Meisyah Ababil |
-| NPM | 233510687 |
+| NPM | 233510092 |
 | Semester | 6 |
 | Program Studi | Teknik Informatika |
 | Universitas | Universitas Islam Riau |
